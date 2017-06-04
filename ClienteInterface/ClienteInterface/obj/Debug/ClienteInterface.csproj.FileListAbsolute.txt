@@ -1,0 +1,11 @@
+c:\users\vinicius\documents\visual studio 2017\Projects\ClienteInterface\ClienteInterface\bin\Debug\ClienteInterface.exe.config
+c:\users\vinicius\documents\visual studio 2017\Projects\ClienteInterface\ClienteInterface\bin\Debug\ClienteInterface.exe
+c:\users\vinicius\documents\visual studio 2017\Projects\ClienteInterface\ClienteInterface\bin\Debug\ClienteInterface.pdb
+c:\users\vinicius\documents\visual studio 2017\Projects\ClienteInterface\ClienteInterface\obj\Debug\ClienteInterface.csprojResolveAssemblyReference.cache
+c:\users\vinicius\documents\visual studio 2017\Projects\ClienteInterface\ClienteInterface\obj\Debug\ClienteInterface.Form1.resources
+c:\users\vinicius\documents\visual studio 2017\Projects\ClienteInterface\ClienteInterface\obj\Debug\ClienteInterface.Properties.Resources.resources
+c:\users\vinicius\documents\visual studio 2017\Projects\ClienteInterface\ClienteInterface\obj\Debug\ClienteInterface.csproj.GenerateResource.Cache
+c:\users\vinicius\documents\visual studio 2017\Projects\ClienteInterface\ClienteInterface\obj\Debug\ClienteInterface.exe
+c:\users\vinicius\documents\visual studio 2017\Projects\ClienteInterface\ClienteInterface\obj\Debug\ClienteInterface.pdb
+C:\Users\Vinicius\documents\visual studio 2017\Projects\ClienteInterface\ClienteInterface\bin\Debug\MsgPack.dll
+C:\Users\Vinicius\documents\visual studio 2017\Projects\ClienteInterface\ClienteInterface\bin\Debug\MsgPack.xml
